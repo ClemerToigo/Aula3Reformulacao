@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    
+}
+
+h1{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+ol{
+    color: aliceblue;
+}
+
+a{
+    text-decoration: none;  /*Retira a decoração*/
+    background-color: rgb(228, 84, 163);
+    color:rgb(33, 2, 175);
+    padding: 10px;
+    border-radius: 100px;
+    margin-right: 5px;
+    
+}
+
+a:hover{
+    color: rgb(118, 93, 231);
+    background-color:rgb(228, 84, 163);
+    font-size: 10pt;
+    max-width: 5px;
+    /*hover inverte as cores e muda o tamanho*/
+}
